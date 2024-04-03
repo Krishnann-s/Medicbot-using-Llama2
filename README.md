@@ -2,7 +2,7 @@
 The **Medic Bot** is a repository for a medical chatbot that uses the Llama-2-7B-Chat-GGML model and the pdf _The Gale Encyclopedia of Medicine_. The chatbot has the potential to be a valuable tool for patients, healthcare professionals, and researchers. The chatbot can be used to answer questions about medical topics, provide summaries of medical articles, and generate medical text. However, it is important to note that the chatbot is not a substitute for medical advice from a qualified healthcare professional.
 
 ## Architecture
-![Architecture](architecture.png)
+![Architecture](Images/architecture.png)
 
 ## Features of the Medic-Bot:
 
@@ -32,12 +32,12 @@ The **Medic Bot** is a repository for a medical chatbot that uses the Llama-2-7B
    chainlit run model.py -w
 ```
 ## ChatBot Conversations
-### MedicBot [Home Page](home page.jpg)
-![Cancer Diagnoses ](cancer diagnoses.png)
+### MedicBot [Home Page](Images\home page.jpg)
+![Cancer Diagnoses ](Images/cancer diagnoses.png)
 
-![Quite Smoking](quite smoking.jpg)
+![Quite Smoking](Images/quite smoking.jpg)
 
-![Stress Managing](stress managing.jpg)
+![Stress Managing](Images/stress managing.jpg)
 
 ## 📌 Important Notes
 
