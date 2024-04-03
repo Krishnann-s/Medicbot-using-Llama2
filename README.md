@@ -10,7 +10,7 @@ The **Medic Bot** is a repository for a medical chatbot that uses the Llama-2-7B
    * Name - **llama-2-7b-chat.ggmlv3.q2_K.bin**
    * Quant method - q2_K
    * Bits - 2
-   * Size - **2.87 GB**
+   * Size - **7.28 GB**
    * Max RAM required - 5.37 GB
    * Use case - New k-quant method. Uses GGML_TYPE_Q4_K for the attention.vw and feed_forward.w2 tensors, GGML_TYPE_Q2_K for the other tensors.
    * **Model:** Know more about model **[Llama-2-7B-Chat-GGML](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML)**
@@ -45,9 +45,7 @@ The **Medic Bot** is a repository for a medical chatbot that uses the Llama-2-7B
 #### Stress Managing
 ![Stress_Managing](Images/stressmanaging.jpg)
 
-## 📌 Important Notes
 
-- While powerful, this chatbot isn't a substitute for professional medical advice.
 ## Contributors
 [Krishnan S](https://github.com/Krishnann-s)
 
@@ -55,6 +53,6 @@ The **Medic Bot** is a repository for a medical chatbot that uses the Llama-2-7B
 
 [Puneeth Kumar Reddy](https://github.com/Puneeth207)
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](https://github.com/Krishnann-s/Medicbot-using-Llama2/blob/main/LICENSE).
