@@ -33,12 +33,13 @@ The **Medic Bot** is a repository for a medical chatbot that uses the Llama-2-7B
 ```
 ## ChatBot Conversations
 ### MedicBot 
-![Home Page](Medicbot-using-Llama2\Images\home page.jpg) 
-![Cancer Diagnoses](Medicbot-using-Llama2\Images\cancer diagnoses.png)
+![Home Page](Images\home page.jpg) 
 
-![Quite Smoking](Medicbot-using-Llama2\Images\quite smoking.jpg)
+![Cancer Diagnoses](Images\cancer diagnoses.png)
 
-![Stress Managing](Medicbot-using-Llama2\Images\stress managing.jpg)
+![Quite Smoking](Images\quite smoking.jpg)
+
+![Stress Managing](Images\stress managing.jpg)
 
 ## 📌 Important Notes
 
