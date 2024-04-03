@@ -32,8 +32,9 @@ The **Medic Bot** is a repository for a medical chatbot that uses the Llama-2-7B
    chainlit run model.py -w
 ```
 ## ChatBot Conversations
-### MedicBot [Home Page](Images\home page.jpg)
-![Cancer Diagnoses ](Images/cancer diagnoses.png)
+### MedicBot 
+![Home Page](Images/home page.jpg)
+![Cancer Diagnoses](Images/cancer diagnoses.png)
 
 ![Quite Smoking](Images/quite smoking.jpg)
 
@@ -43,9 +44,9 @@ The **Medic Bot** is a repository for a medical chatbot that uses the Llama-2-7B
 
 - While powerful, this chatbot isn't a substitute for professional medical advice.
 ## Contributors
-![Krishnan S](https://github.com/Krishnann-s)
-![Naveen Kumar K](https://github.com/KALLUMATAM-NAVEEN-KUMAR)
-![Puneeth Kumar Reddy](https://github.com/Puneeth207)
+[Krishnan S](https://github.com/Krishnann-s)
+[Naveen Kumar K](https://github.com/KALLUMATAM-NAVEEN-KUMAR)
+[Puneeth Kumar Reddy](https://github.com/Puneeth207)
 
 ## 📄 License
 
